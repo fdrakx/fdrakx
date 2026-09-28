@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @francescocordani02
 - 👀 I’m interested in coding and DevOps
-- 📫 How to reach me: francesco.cordani2703@gmail.com
+- 📫 How to reach me: info@francescocordani.it
 
 <!---
 francescocordani02/francescocordani02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
