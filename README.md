@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @francescocordani02
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding and DevOps
 - 📫 How to reach me: francesco.cordani2703@gmail.com
 
 <!---
